@@ -1,7 +1,12 @@
-# Hi 👋, I'm Jhanwi Kumari
+<p align="center"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
 
-### I'm a tech enthusiast with a Bachelor of Technology in Computer Science from Ramgarh Engineering College.
-### I love contributing my sills & knowledge to drive positive changes in the world, whether it's through coding,collaboration,or innovative projects.
+<h2> JHANWI KUMARI </h2> 
+
+<img width="45%" align="right" alt="Github" src="https://github.com/Kumar-laxmi/Kumar-laxmi/blob/main/Animations/typing_animation.gif?raw=true" />
+
+- 👋 Hi there! I'm a tech enthusiast with a **Bachelor of Technology (B.Tech) in Computer Science from Ramgarh Engineering College**. 
+- 🚀 I love contributing my skills and knowledge to drive positive change in the world. Whether it's through coding, collaboration, or innovative projects, I'm always eager        to explore new opportunities.
+- 🌍 Let's connect and collaborate on GitHub! Together, we can build amazing things and make a difference.
 
 - 📫 How to reach me **jhanwitiwary@gmail.com**
 
