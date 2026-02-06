@@ -79,15 +79,13 @@
 -    📜 
 -    📜
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jhanwi&show_icons=true&locale=en&layout=compact" alt="Jhanwi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jhanwi&show_icons=true&locale=en" alt="Jhanwi" /></p>
 
 
 ### Watch my contribution graph get eaten by the snake 🐍
 
 <!-- platane/snk works, it just puts it on a new branch -->
-![jhanwi snake gif](https://raw.githubusercontent.com/jhanwi/jhanwi/output/snake-eaten.svg)
+![jhanwi snake gif](https://raw.githubusercontent.com/Jhanwi/Jhanwi/refs/heads/main/animated/snake-eaten.svg)
 
 
 
