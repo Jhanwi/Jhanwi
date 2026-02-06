@@ -79,7 +79,12 @@
 -    📜 
 -    📜
 
+## 🏅 Achievements/Leadership
 
+-    🥇 
+-    📜 
+-    👩🏼‍💻 
+-    📝 
 
 
 ### Watch my contribution graph get eaten by the snake 🐍
