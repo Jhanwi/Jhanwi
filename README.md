@@ -42,6 +42,12 @@
         <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="65" height="65" />
       <br>SQL
     </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon" width="65" height="65" />
+      <br>Bootstrap
+    </td>
+    
+  </tr>
     <tr>
     </tr>
     <td align="center" width="96">
@@ -56,10 +62,23 @@
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" alt="icon" width="65" height="65" />
+      <br>CSS
+    </td>
     <tr>
     </tr>
+    
   </tr>
 </table>
+
+## 👩🏻‍💻 Certifications
+
+-    📜 
+-    📜 
+-    📜 
+-    📜
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jhanwi&show_icons=true&locale=en&layout=compact" alt="Jhanwi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jhanwi&show_icons=true&locale=en" alt="Jhanwi" /></p>
