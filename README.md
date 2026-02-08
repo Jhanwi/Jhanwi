@@ -80,9 +80,9 @@
 
 ## 🏅 Achievements/Leadership
 
--    🥇 
+-    🥇 Solve 300+ problems on data structure and algorithm.
 -    📜 Student Coordinator at Udaan(REC Student Portal) from 2022-23 
--    👩🏼‍💻 Mentored 70+ students through daily DSA sessions, strengthening algorithmic thinking in offline mode from May/2022 to August/2022.
+-    👩🏼‍💻 Mentored 70+ students through daily DSA sessions, strengthening algorithmic thinking in offline mode from May2022 to August2022.
 -    📝 Spearheaded a campus recycling initiative that reduced plastic waste in the cafeteria by 30%.
 
 
