@@ -74,17 +74,16 @@
 
 ## 👩🏻‍💻 Certifications
 
--    📜 
--    📜 
--    📜 
--    📜
+-    📜 45 days intensive training on Machine Learning and Data Science using python from Goeduhub Technologies.
+-    📜 C++ Programming from Beginner to Ultimate level- Udemy
+-    📜 Python Programming from scratch - Udemy
 
 ## 🏅 Achievements/Leadership
 
 -    🥇 
--    📜 
--    👩🏼‍💻 
--    📝 
+-    📜 Student Coordinator at Udaan(REC Student Portal) from 2022-23 
+-    👩🏼‍💻 Mentored 70+ students through daily DSA sessions, strengthening algorithmic thinking in offline mode from May/2022 to August/2022.
+-    📝 Spearheaded a campus recycling initiative that reduced plastic waste in the cafeteria by 30%.
 
 
 ### Watch my contribution graph get eaten by the snake 🐍
