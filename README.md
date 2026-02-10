@@ -85,7 +85,10 @@
 -    👩🏼‍💻 Mentored 70+ students through daily DSA sessions, strengthening algorithmic thinking in offline mode from May2022 to August2022.
 -    📝 Spearheaded a campus recycling initiative that reduced plastic waste in the cafeteria by 30%.
 
+<h3>My Github Stats </h3>
 
+<p align='center'><img src="http://github-readme-streak-stats.herokuapp.com?user=jhanwi&theme=onedark">
+  
 ### Watch my contribution graph get eaten by the snake 🐍
 
 <!-- platane/snk works, it just puts it on a new branch -->
