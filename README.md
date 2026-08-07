@@ -76,8 +76,8 @@
 <table>
   <tr>
     <td width="50%">
-      <h4>📈 Stock Sense: Big Data Pipeline & Dashboard</h4>
-      <a href="https://github.com"><img src="https://shields.io" alt="Active Development" /></a>
+      <h4>📈 Stock Sense</h4>
+      <strong>Automated Market Ingestion Pipeline</strong>
       <br><br>
       A high-performance, full-stack big data platform that ingests, processes, and visualizes massive historical financial datasets in near real-time. Slashing pipeline execution overhead from 4 hours to 45 minutes (<b>70% efficiency gain</b>) using Pandas ETL.
       <br><br>
