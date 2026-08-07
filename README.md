@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/Jhanwi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Jhanwi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jhanwi-kumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhanwi-kumari" height="30" width="40" /></a>
-<a href="https://leetcode.com/Jhanwi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Jhanwi" height="30" width="40" /></a>
+<a href="https://github.com/Jhanwi" target="blank"><img align="center" src="https://raw.githubusercontent.com/jhanwi/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Jhanwi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jhanwi-kumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/jhanwi/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhanwi-kumari" height="30" width="40" /></a>
+<a href="https://leetcode.com/Jhanwi" target="blank"><img align="center" src="https://raw.githubusercontent.com/jhanwi/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Jhanwi" height="30" width="40" /></a>
 </p>
 
 <p></p>
@@ -83,17 +83,17 @@
       <br><br>
       <code>Python</code> <code>YFinance API</code> <code>Pandas</code> <code>ETL Pipelines</code> <code>Rich UI</code>
       <br><br>
-      <a href="https://github.com">📂 Explore Code Base</a>
+      <a href="https://github.com/Jhanwi/StockSense-Indian-Stock-Price-Forecaster.git">📂 Explore Code Base</a>
     </td>
     <td width="50%">
-      <h4>💳 Smart Spend</h4>
+      <h4>💳 Expense-Tracker</h4>
       <strong>Full-Stack Financial Engine</strong>
       <br><br>
       Built an isolated full-stack system using <b>FastAPI</b> and <b>SQLAlchemy</b>. Features secure JWT/bcrypt data isolation layers for multi-user safety and real-time interactive cost analytics. Protected by an automatic 15-minute session timeout.
       <br></br>
       <code>Python</code> <code>FastAPI</code> <code>SQLite</code> <code>JWT</code> <code>Chart.js</code>
       <br></br>
-      <a href="https://github.com">📂 Explore Code Base</a>
+      <a href="https://github.com/Jhanwi/expense-tracker.git">📂 Explore Code Base</a>
     </td>
   </tr>
 </table>
