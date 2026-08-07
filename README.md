@@ -38,58 +38,35 @@
 ---
 
 
-## 🛠️ Skills
+### 🛠️ Skills & Tech Stack
 
-### Programming Languages
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=python" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=Fast API" alt="icon" width="65" height="65" />
-      <br>FastAPI
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=js" alt="icon" width="65" height="65" />
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="65" height="65" />
-      <br>SQL
-    </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon" width="65" height="65" />
-      <br>Bootstrap
-    </td>
-    
-  </tr>
-    <tr>
-    </tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=c" alt="icon" width="65" height="65" />
-      <br>C
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=cpp" alt="icon" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" alt="icon" width="65" height="65" />
-      <br>CSS
-    </td>
-    <tr>
-    </tr>
-    
-  </tr>
-</table>
+#### 🚀 Languages
+<img src="https://skillicons.dev" />
+
+#### ⚙️ Backend Development
+<img src="https://skillicons.dev" />
+* **APIs:** REST APIs
+
+#### 💻 Frontend Development
+<img src="https://skillicons.dev" />
+
+#### 🗄️ Databases
+<img src="https://skillicons.dev" />
+
+#### 🤖 AI & Data Science
+<img src="https://skillicons.dev" />
+* **Libraries & Concepts:** Pandas, Natural Language Processing (NLP)
+
+#### 🔧 Tools & Platforms
+<img src="https://skillicons.dev" />
+* **Cloud & Containers:** Docker (Basic), Render
+
+#### 📦 Libraries & UI
+* `Rich (Terminal UI)` 
+* `Tkinter (GUI)`
+
+
+
 
 ---
 
