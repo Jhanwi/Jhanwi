@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jhanwi352002@gmail.com**
 
-<h2> Connect with me </h2>
+### Connect with me 
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/jhanwi-kumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/kumar-laxmikant-24a938202" height="30" width="40" /></a>
 </p>
